@@ -4,7 +4,7 @@
   "description": "Real Time chat App with rooms",
   "main": "server.js",
   "scripts": {
-    "start": "node server"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
