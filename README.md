@@ -1,7 +1,7 @@
 # chatApp
 A real time chat app created using socket.io
 
-#Steps to use it on your local host
+## Steps to use it on your local host
 <ul>
 <li>clone the repo</li>
 <li>cd chatApp</li>
